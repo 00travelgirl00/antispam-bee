@@ -87,11 +87,11 @@
 
 .ab-column h6 {
     clear: both;
-    color: #8e959c;
+    color: #555d66;
     margin: 0 0 20px;
     font-size: 10px;
     font-weight: normal;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 /* @end group */
